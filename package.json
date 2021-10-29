@@ -1,0 +1,28 @@
+{
+  "name": "cadot-info-favorites",
+  "version": "2.0.0",
+  "description": "Little vanilla js library for favorites with cookies ",
+  "main": "favorites.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadot-info/favorites.git"
+  },
+  "keywords": [
+    "favorites",
+    "cookies",
+    "like"
+  ],
+  "author": "cadot.info",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cadot-info/favorites/issues"
+  },
+  "homepage": "https://github.com/cadot-info/favorites#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  },
+  "dependencies": {}
+}
